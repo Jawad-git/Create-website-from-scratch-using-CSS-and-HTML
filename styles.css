@@ -127,3 +127,34 @@ a,
     color: #2c2e30;
 }
 
+.section3 {
+    background-color: #E5E7Eb;
+    display: flex;
+    flex-direction: column;
+}
+
+.subsection3 {
+    margin: auto;
+    width: 1200px;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    padding: 60px 30px 40px;
+}
+
+.p3 {
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+    margin: 0;
+    padding: 0;
+}
+
+.author {
+    color: black;
+    font-weight: bold;
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+    align-self: flex-end;
+}
